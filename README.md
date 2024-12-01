@@ -51,6 +51,7 @@ Yayın Erişim Sayfaları:
 
 4. [UBMK - Kongresi Kitap](https://ubmk.org.tr/wp-content/uploads/2022/01/web-ubmk-2017.pdf)
 
+5. [ResearchGate](https://www.researchgate.net/publication/320829526_Monitoring_of_miner_by_RF_signal)
 
 ---
 
