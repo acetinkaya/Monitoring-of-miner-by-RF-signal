@@ -47,6 +47,10 @@ Yayın Erişim Sayfaları:
 
 2. [IGU Avesis](https://avesis.gelisim.edu.tr/yayin/43788469-c9a6-4246-97a8-ffa87088cdca/monitoring-of-miner-by-rf-signal)
 
+3. [UBMK - Kongre Sayfası](https://ubmk.org.tr/2017/)
+
+4. [UBMK - Kongresi Kitap](https://ubmk.org.tr/wp-content/uploads/2022/01/web-ubmk-2017.pdf)
+
 
 ---
 
