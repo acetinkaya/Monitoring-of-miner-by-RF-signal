@@ -63,11 +63,11 @@ Yayın Erişim Sayfaları:
 
 ## How to Cite / Nasıl Alıntı Yapılır?
 
-IEEE: T. Saray Çetinkaya And A. Çetinkaya, "Algorithm Design In Programming Language Education," In Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II , Gaziantep: Özgür Yayınları, 2023, pp.127-153.
+IEEE: T. Saray Çetinkaya Et Al. , "Monitoring of miner by RF signal," 2. Uluslararası Bilgisayar Bilimleri ve Mühendisliği Konferans (UBMK 2017) , Antalya, Turkey, pp.526-529, 2017
 
-APA: Saray Çetinkaya, T., & Çetinkaya, A., (2023). Algorithm Design In Programming Language Education. Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II (pp.127-153), Gaziantep: Özgür Yayınları.
+APA: Saray Çetinkaya, T., Çetinkaya, A., & Mendi, Ş. E., (2017). Monitoring of miner by RF signal . 2. Uluslararası Bilgisayar Bilimleri ve Mühendisliği Konferans (UBMK 2017) (pp.526-529). Antalya, Turkey
 
-MLA: Saray Çetinkaya, TUĞBA S. And Çetinkaya, ALİ. "Algorithm Design In Programming Language Education." Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II , Özgür Yayınları, 2023, pp.127-153.
+MLA: Saray Çetinkaya, TUĞBA S. Et Al. "Monitoring of miner by RF signal." 2. Uluslararası Bilgisayar Bilimleri ve Mühendisliği Konferans (UBMK 2017) , Antalya, Turkey, pp.526-529, 2017
 
 ---
 
