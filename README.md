@@ -21,11 +21,13 @@ Kongre İsmi: 2017 International Conference on Computer Science and Engineering 
 
 Kongre Kitabı DOI No: 10.1109/UBMK.2017.8093367
 
-ISBN Information:
--* Electronic ISBN:978-1-5386-0930-9
--* Print on Demand(PoD) ISBN:978-1-5386-0931-6
+Electronic ISBN No: 978-1-5386-0930-9 
 
-Kongre Tarihleri: 05-08 October 2017 - Antalya, Turkey
+Print on Demand(PoD) ISBN No: 978-1-5386-0931-6  
+
+Date of Conference: 05-08 October 2017 - Antalya, Turkey
+
+Date Added to IEEE Xplore: 02 November 2017
 
 Tam Metnin Kongre Kitabındaki Sayfaları: 168 - 175
 
