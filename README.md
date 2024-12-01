@@ -4,10 +4,10 @@ Monitoring of miner by RF signal
 
 ## Authors:
 
-Tuğba Saray*  
+[Tuğba Saray](https://scholar.google.com.tr/citations?user=TL74kPEAAAAJ)*  
 Department of Information Security Technologies, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
-Ali Çetinkaya  
+[Ali Çetinkaya](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
 Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
 Şekip Engin Mendi  
