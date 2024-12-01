@@ -48,8 +48,6 @@ Yayın Erişim Sayfaları:
 2. [IGU Avesis](https://avesis.gelisim.edu.tr/yayin/43788469-c9a6-4246-97a8-ffa87088cdca/monitoring-of-miner-by-rf-signal)
 
 
+---
 
-
-
-
-
+License: © Copyright 2024 IEEE - All rights reserved, including rights for text and data mining and training of artificial intelligence and similar technologies.
