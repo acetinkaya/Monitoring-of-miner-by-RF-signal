@@ -15,6 +15,12 @@ Department of Computer Engineering, KTO Karatay University, Konya, Turkey
 
 *For Correspondence: tsaray@gelisim.edu.tr
 
+---
+
+[!Alternatifmetin](https://github.com/tsaray/Monitoring-of-miner-by-RF-signal/blob/main/ubmk.png)
+
+---
+
 ## Kongre Bilgileri:
 
 Kongre İsmi: 2017 International Conference on Computer Science and Engineering (UBMK)
