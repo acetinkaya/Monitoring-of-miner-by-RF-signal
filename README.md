@@ -17,7 +17,7 @@ Department of Computer Engineering, KTO Karatay University, Konya, Turkey
 
 ---
 
-[!Alternatifmetin](https://github.com/tsaray/Monitoring-of-miner-by-RF-signal/blob/main/ubmk.png)
+[Alternatifmetin](https://github.com/tsaray/Monitoring-of-miner-by-RF-signal/blob/main/ubmk.png)
 
 ---
 
