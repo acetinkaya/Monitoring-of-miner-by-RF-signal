@@ -17,10 +17,6 @@ Department of Computer Engineering, KTO Karatay University, Konya, Turkey
 
 ---
 
-![AlternatifMetin](https://github.com/tsaray/Monitoring-of-miner-by-RF-signal/blob/main/ubmk.png)
-
----
-
 ## Kongre Bilgileri:
 
 Kongre İsmi: 2017 International Conference on Computer Science and Engineering (UBMK)
@@ -47,6 +43,10 @@ Keywords:
 
 ---
 
+![AlternatifMetin](https://github.com/tsaray/Monitoring-of-miner-by-RF-signal/blob/main/ubmk.png)
+
+---
+
 Yayın Erişim Sayfaları:
 
 1. [IEEE](https://ieeexplore.ieee.org/document/8093441)
@@ -58,6 +58,16 @@ Yayın Erişim Sayfaları:
 4. [UBMK - Kongresi Kitap](https://ubmk.org.tr/wp-content/uploads/2022/01/web-ubmk-2017.pdf)
 
 5. [ResearchGate](https://www.researchgate.net/publication/320829526_Monitoring_of_miner_by_RF_signal)
+
+---
+
+## How to Cite / Nasıl Alıntı Yapılır?
+
+IEEE: T. Saray Çetinkaya And A. Çetinkaya, "Algorithm Design In Programming Language Education," In Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II , Gaziantep: Özgür Yayınları, 2023, pp.127-153.
+
+APA: Saray Çetinkaya, T., & Çetinkaya, A., (2023). Algorithm Design In Programming Language Education. Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II (pp.127-153), Gaziantep: Özgür Yayınları.
+
+MLA: Saray Çetinkaya, TUĞBA S. And Çetinkaya, ALİ. "Algorithm Design In Programming Language Education." Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II , Özgür Yayınları, 2023, pp.127-153.
 
 ---
 
